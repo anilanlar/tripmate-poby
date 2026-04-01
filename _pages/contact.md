@@ -17,5 +17,5 @@ Have a question, feedback, or need support? We'd love to hear from you!
   <label for="message" style="font-weight: bold;">Message</label><br>
   <textarea id="message" name="message" rows="6" required style="width: 100%; padding: 10px; margin-top: 5px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 4px; font-family: inherit; resize: vertical;"></textarea><br>
   
-  <input type="submit" value="Send Message" style="background-color: #6366f1; color: white; padding: 12px 24px; border: none; cursor: pointer; border-radius: 5px; font-weight: bold; font-size: 16px;">
+  <input type="submit" value="Send Message" style="background-color: #4144f8ff; color: white; padding: 12px 24px; border: none; cursor: pointer; border-radius: 5px; font-weight: bold; font-size: 16px;">
 </form>
