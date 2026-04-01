@@ -20,18 +20,18 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
-your_link                                 : https://emilbaehr.com                     
-your_city                                 : Copenhagen                                
-email_address                             : emil.baehr@gmail.com
-linkedin_username                         :                                           
-linkedin_company                          :                                           
-facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
-github_username                           : emilbaehr
-youtube_username                          :
-mastodon_link                             : https://mastodon.social/@ebaehr
+your_name                                 : Poby Tech                                
+your_link                                 : pobytech@gmail.com                     
+your_city                                 : Istanbul                                
+email_address                             : pobytech@gmail.com
+# linkedin_username                         :                                           
+# linkedin_company                          :                                           
+# facebook_username                         :                                           
+# instagram_username                        : ebaehr
+# twitter_username                          : ebaehr
+# github_username                           : emilbaehr
+# youtube_username                          :
+# mastodon_link                             : https://mastodon.social/@ebaehr
 
 
 
